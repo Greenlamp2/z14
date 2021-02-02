@@ -9,3 +9,4 @@ from .popof import Popof
 from .score_tracker import ScoreTracker
 from .self_role import SelfRole
 from .sound_effects import SoundEffects
+from .record import Record

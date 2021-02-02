@@ -22,6 +22,7 @@ class Z14(commands.Bot):
             modules.Popof(bot),
             modules.ScoreTracker(bot),
             modules.SoundEffects(bot),
+            modules.Record(bot),
 
             modules.AutoRole(bot),
             modules.SelfRole(bot),
